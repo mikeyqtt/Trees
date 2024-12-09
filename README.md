@@ -4,7 +4,7 @@
 
 The File Organizer Application is a simple Java program that allows users to create, manage, and view files or folders in a tree structure.
 
-
+![image alt](https://github.com/mikeyqtt/Trees/blob/dd5894ff41d12b7cd7b53017e2a0f79590cb5512/FileOrganizerscreenshot.png)
 
 
 
